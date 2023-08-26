@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>800880062698-n8asusodn9bbcjld43v5ctg44csvc6lv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.800880062698-n8asusodn9bbcjld43v5ctg44csvc6lv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDULcUfdEIwUUctQw0eY93eaOwnmzhmgLg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>800880062698</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.osoahia</string>
+	<key>PROJECT_ID</key>
+	<string>osoahia-bca7c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>osoahia-bca7c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:800880062698:ios:62a6c33e67336d12866793</string>
+</dict>
+</plist>
